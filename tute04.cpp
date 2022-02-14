@@ -32,7 +32,7 @@ long Factorial(int no)
 	int x,fac=1;
 	for(x=1 ; x<=no ; ++x)
 	{
-		fac=fac*x;
+	fac=fac*x;
 	}
 	return fac;
 }
